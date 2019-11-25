@@ -1,4 +1,4 @@
-
+# Check if reshape2 package is installed
 if(!library(reshape2, logical.return = TRUE)) {
   # It didn't exist, so install the package, and then load it
   install.packages('reshape2')
