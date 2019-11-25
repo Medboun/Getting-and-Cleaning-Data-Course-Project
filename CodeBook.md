@@ -3,9 +3,9 @@
 
 ## Identifiers
 
- - `subject`  - The ID of the test subject
+ - subject  - The ID of the test subject
 
- - `activity` - The type of activity performed by subjects when the measurements were taken
+ - activity - The type of activity performed by subjects when the measurements were taken
    - Walking
    - Walking Upstairs
    - Walking Downstairs
